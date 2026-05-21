@@ -27,7 +27,3 @@ This project was created to strengthen practical finance and data visualization 
 
 
 
-
-
-## Purpose
-This project was created to strengthen practical finance and data visualization skills through a real-world portfolio tracking dashboard.
